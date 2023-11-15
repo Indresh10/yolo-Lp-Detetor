@@ -1,0 +1,7 @@
+path: /content/drive/MyDrive/cv_images/license plate detection
+train: large-license-plate-dataset/images/train
+val: large-license-plate-dataset/images/val
+test: large-license-plate-dataset/images/test
+
+names:
+  0: LP
