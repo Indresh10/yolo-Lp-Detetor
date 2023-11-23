@@ -1,3 +1,5 @@
 .vscode
 yolo
 runs
+*.tflite
+lp_detector-2.pt
